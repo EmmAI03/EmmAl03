@@ -1,96 +1,123 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9hDx804002x0/giphy.gif" width="200"/>
-  <h1 align="center">Hi 👋, I'm Emmy Rahmaniasari</h1>
-  <h3 align="center">An Agronomist, Data Enthusiast, and Strategic Problem Solver from Indonesia.</h3>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+<h1 align="center">Hi there! 👋 I'm Emmy Rahmaniasari</h1>
+<h3 align="center">🌾 Agronomist • 📊 Data Enthusiast • 🎯 Strategic Problem Solver</h3>
+<h4 align="center">🇮🇩 From Indonesia</h4>
 </div>
 
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/emmyraniasa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:emmyrahmania@gmail.com">
-    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://emmy-rahmaniasari-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
-  </a>
+<a href="https://linkedin.com/in/emmyraniasa" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:emmyrahmania@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://emmy-rahmaniasari-portfolio.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/EmmAl03" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</div>
+<br/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=EmmAl03&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/EmmAl03?label=Followers&style=flat-square&color=blue" alt="GitHub Followers"/>
 </div>
 
-## 👨‍💻 About Me:
+🌟 About Me
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-I am a Bachelor of Agriculture from Universitas Brawijaya with a strong foundation in **data analysis**, **project management**, and **sustainable agriculture**. My passion lies in leveraging technology and research to create efficient, real-world solutions.
+🎓 Agriculture Graduate from Universitas Brawijaya with a passion for merging traditional agriculture with modern technology.
 
-* 🔭 I'm currently exploring opportunities in data science and IT project management.
-* 🌱 I'm skilled in both agronomy research and modern tech stacks.
-* 💬 Ask me about **Python**, **RStudio**, **Organic Farming**, or **Organizational Leadership**.
-* 📫 How to reach me: **emmyrahmania@gmail.com**
+✨ I believe in the power of data-driven decisions and sustainable solutions to create meaningful impact in both agriculture and technology sectors.
 
-## 🛠️ My Tech Stack & Skills:
+🚀 Currently on a journey to bridge the gap between agronomic research and digital innovation.
 
-Here are some of the key technologies and tools I work with:
+🎯 What I'm up to:
+🔭 Currently exploring: Data Science & IT Project Management opportunities
 
+🌱 Learning: Advanced Python, Machine Learning, and Cloud Technologies
+
+🤝 Looking to collaborate on: AgTech projects and sustainable agriculture solutions
+
+💬 Ask me about: Python, R, Organic Farming, Research Methodology, or Project Management
+
+📫 Reach me: emmyrahmania@gmail.com
+
+⚡ Fun fact: I can analyze soil data and debug code with equal enthusiasm! 🌱💻
+
+🛠️ Tech Arsenal
+💻 Programming & Data
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
-## 📊 My GitHub Stats:
+🌐 Web Development
+<p align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+</p>
 
+🗄️ Databases & Cloud
+<p align="left">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
+
+🎨 Design & Tools
+<p align="left">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio"/>
+</p>
+
+📈 GitHub Analytics
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmmAl03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmAl03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+<div align="center">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EmmAl03&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+🤝 Let's Connect & Collaborate!
+<div align="center">
+<h4>💡 Open to Opportunities</h4>
+<p>
+🚀 Full-time positions in Data Science or Web Development<br/>
+🤝 Collaboration on AgTech and sustainability projects<br/>
+💬 Mentoring junior developers and agriculture students
+</p>
+
+<h4>📬 Get in Touch</h4>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmmAl03&show_icons=true&locale=en&theme=tokyonight" alt="EmmAl03" />
+<a href="mailto:emmyrahmania@gmail.com">
+<img src="https://img.shields.io/badge/Email-emmyrahmania@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/emmyraniasa">
+<img src="https://img.shields.io/badge/LinkedIn-Emmy%20Rahmaniasari-blue?style=flat-square&logo=linkedin"/>
+</a>
+<a href="https://emmy-rahmaniasari-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-black?style=flat-square&logo=vercel"/>
+</a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmmAl03&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
-</p>
-
-## 🚀 Featured Projects:
-
-* **[My-Blog](https://github.com/EmmAl03/My-Blog)** - A blog application built with JavaScript
-* **[Express-Test](https://github.com/EmmAl03/express-test)** - Express.js testing and learning project
-* **[Frontend-Kada-Blog](https://github.com/EmmAl03/frontend-kada-blog)** - Frontend for blog application
-* **[Dunia-Anabul-Web](https://github.com/EmmAl03/dunia-anabul-web)** - Pet-related web application
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EmmAl03&label=Profile%20views&color=0e75b6&style=flat" alt="EmmAl03" />
-</p>
-
-<p align="center">
-  💼 Open to collaboration and new opportunities!
-</p>
+<br/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<br/>
+<b>Thanks for visiting my profile! Let's grow something amazing together! 🌱</b>
+<br/>
+<i>⭐ Feel free to star my repositories if you find them interesting!</i>
+</div>
